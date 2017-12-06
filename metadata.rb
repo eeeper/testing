@@ -14,7 +14,7 @@ depends 'powershell'
 # uploaded to a Supermarket.
 #
 # issues_url 'https://github.com/<insert_org_here>/base/issues'
-
+#
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
